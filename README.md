@@ -71,6 +71,22 @@ smart-traffic-pedestrian-safety/
 └── README.md
 ```
 
+## Project screenshots
+
+The following images show the Tinkercad circuit and its main operating states.
+
+### Complete circuit
+![Complete circuit](Screenshots/01_complete_circuit.png)
+
+### Traffic signals
+![Traffic signals](Screenshots/02_traffic_signals.png)
+
+### LCD status display
+![LCD display](Screenshots/03_lcd_display.png)
+
+### Pedestrian crossing
+![Pedestrian crossing](Screenshots/04_pedestrian_crossing.png)
+
 ## Concepts demonstrated
 
 Arduino programming, digital input/output, conditional logic, timing, LCD interfacing, basic electronics, circuit simulation, and troubleshooting.
